@@ -15,7 +15,7 @@ A 🌈Web developer🎯 from Bangladesh. I'm passionate about Full-Stack Web Dev
 
 - 🌱 I’m currently learning ReactJs , NodeJs and MongooDB
 - 👯 I’m looking to collaborate on javascript projects and Basic Web Dev stuff
-- 📫 How to reach me: You may follow me on [Instagram](https://www.instagram.com/tajul_islam_rifat) 
+- 📫 How to reach me: You may follow me on [Linkedin](https://www.linkedin.com/in/tajul-islam-rifat-94119a197/) 
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: Jack of all trades , Master of None ! 
 <br />
