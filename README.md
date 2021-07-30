@@ -49,8 +49,8 @@ A 🌈Web developer🎯 from Bangladesh. I'm passionate about Full-Stack Web Dev
 
 <!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=rifat-dev&theme=dark)](https://git.io/streak-stats) -->
 
-<img src="https://github-readme-stats.vercel.app/api?username=rifat-dev&show_icons=true&hide_border=true&theme=dark" width="40%" align="right" >
-<img  src="http://github-readme-streak-stats.herokuapp.com?user=rifat-dev&theme=dark" width="45%" >
+<img src="https://github-readme-stats.vercel.app/api?username=tajul-islam-refath&show_icons=true&hide_border=true&theme=dark" width="40%" align="right" >
+<img  src="http://github-readme-streak-stats.herokuapp.com?user=tajul-islam-refath&theme=dark" width="45%" >
 
 <br>
 
