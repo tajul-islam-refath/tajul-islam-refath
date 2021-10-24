@@ -46,11 +46,8 @@ A 🌈Web developer🎯 from Bangladesh. I'm passionate about Full-Stack Web Dev
 <br >
 
 ## 🏆 Languages
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tajul-islam-refath
-&show_icons=true&locale=en&layout=compact" alt="tajul-islam-refath
-" /></p>
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tajul-islam-refath)](https://github.com/anuraghazra/github-readme-stats)
+<br >
 ## 🏆 Github Status
 
 <!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=rifat-dev&theme=dark)](https://git.io/streak-stats) -->
