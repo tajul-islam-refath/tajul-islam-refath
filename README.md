@@ -60,7 +60,6 @@ A 🌈Web developer🎯 from Bangladesh. I'm passionate about Full-Stack Web Dev
 <b>&#128200; Competitive Programming</b>
 <p float="left">
 <img height="273em" src="https://leetcard.jacoblin.cool/Refath101?theme=light&font=Karma&ext=contest" />
-<img height="280em" src="https://raw.githubusercontent.com/Rifat.or/cf-stats/main/output/light_card.svg" />
 </p>
 
 <br>
