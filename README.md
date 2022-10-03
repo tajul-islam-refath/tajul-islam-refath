@@ -15,7 +15,7 @@
 
 - 🌱 I’m currently learning ReactJs , NodeJs and MongooDB
 - 👯 I’m looking to collaborate on javascript projects and Basic Web Dev stuff
-- 📫 How to reach me: You may follow me on [Linkedin](https://www.linkedin.com/in/tajul-islam-rifat-94119a197/) 
+- 📫 How to reach me: You may follow me on [Linkedin](https://www.linkedin.com/in/tajul-islam-refath-94119a197/) 
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: Jack of all trades , Master of None ! 
 <br />
@@ -68,7 +68,7 @@
 ### Show some ❤️ by starring ⭐ some of the repositories!
 
 
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/tajul-islam-rifat-94119a197/)
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/tajul-islam-refath-94119a197/)
 [<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/tajul_islam_refath/?hl=en)
 [<img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/profile.php?id=100010909307455)
 
