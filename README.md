@@ -4,7 +4,7 @@
 
 <h3 align="center">I'm from Bangladesh ❤</h3>
   
-A 🌈Web developer🎯 from Bangladesh. I'm passionate about Full-Stack Web Development.:bar_chart:. 
+ I'm passionate about Full-Stack Web Development.:bar_chart:. 
 
 
 ![age](https://img.shields.io/badge/age-22-blue)
