@@ -2,7 +2,7 @@
 
 <h1 align="center">  I'm Tajul Islam Refath <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> ! </h1>
 
-<h3 align="center">I'm a Web Developer from Bangladesh ❤</h3>
+<h3 align="center">I'm from Bangladesh ❤</h3>
   
 A 🌈Web developer🎯 from Bangladesh. I'm passionate about Full-Stack Web Development.:bar_chart:. 
 
