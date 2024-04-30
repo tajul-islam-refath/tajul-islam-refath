@@ -16,9 +16,9 @@
 
 - 🔭 Focusing on FullStack (Frontend + Backend + System Design).
 - 👯 I’m looking to collaborate on javascript projects and Basic Web Dev stuff
-- - 💻 I love exploring new tech stacks and building cool stuff.
+- 💻 I love exploring new tech stacks and building cool stuff.
 - 📰 Reading tech documentation whenever possible.
-- 🥅 2024 Goals: Learn (Backend + Testing + Docker + Redis).
+- 🥅 2024 Goals: Learn (Backend + Testing + Docker + Redis + Problem Solving).
 <br />
 
 ---
