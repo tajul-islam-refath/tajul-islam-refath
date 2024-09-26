@@ -6,7 +6,7 @@
   </a>
 </h1>
 
- I'm passionate about Full-Stack Web Development.
+ I'm passionate about Software engineering.
 
 ![focus](https://img.shields.io/badge/focus-FullStack-brightgreen)
 ![living](https://img.shields.io/badge/living-Dhaka-3c9)
@@ -14,11 +14,10 @@
 
 <img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 🔭 Focusing on FullStack (Frontend + Backend + System Design).
+- 💻 I am confident in (Javascript, reactJs, nextJs, react-native, and nodejs).
 - 👯 I’m looking to collaborate on javascript projects and Basic Web Dev stuff
 - 💻 I love exploring new tech stacks and building cool stuff.
 - 📰 Reading tech documentation whenever possible.
-- 🥅 2024 Goals: Learn (Backend + Testing + Docker + Redis + Problem Solving).
 <br />
 
 ---
